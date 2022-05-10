@@ -68,7 +68,7 @@ def learn_trigram(data, verbose=True):
     It also evaluates the model on data.dev and data.test, along with generating
     some sample sentences from the model.
     """
-    from lm2 import Trigram
+    from trigram_lm import Trigram
 
     # Training trigram model
     trigram = Trigram()
