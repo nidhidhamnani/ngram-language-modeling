@@ -1,6 +1,6 @@
 # Probablistic Language Models
 
-Implemented unigram and trigram probablistic language models and provided a detailed comparative analysis of the models.
+Implemented unigram and trigram probablistic language models and provided a detailed comparative analysis of the same.
 
 For more details, please look at [`report.pdf`](https://github.com/nidhidhamnani/ngram-language-modeling/blob/main/report.pdf)
 
@@ -30,4 +30,4 @@ To run the trigram model with linear interpolation smoothing:
 
 - trigram_model.py: Contains methods to read the appropriate data files from the archive, train and evaluate all the trigram language models, and generate sample sentences from all the models
 
-Note: This project was implemented as a part of CSE 256: Statistical NLP (Spring 2022) at UCSD
+**Note:** This project was implemented as a part of CSE 256: Statistical NLP (Spring 2022) at UCSD
