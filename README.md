@@ -2,7 +2,7 @@
 
 Implemented unigram and trigram probablistic language models and provided a detailed comparative analysis of the models.
 
-For more details, please look at `report.pdf`
+For more details, please look at [`report.pdf`](https://github.com/nidhidhamnani/ngram-language-modeling/blob/main/report.pdf)
 
 ## Getting Started
 
