@@ -1,6 +1,6 @@
 # Probablistic Language Models
 
-Implemented unigram and trigram probablistic language models and provided a detailed comparative analysis of the models.
+Implemented unigram and trigram probablistic language models and provided a detailed comparative analysis of the same.
 
 For more details, please look at `report.pdf`
 
